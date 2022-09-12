@@ -1,2 +1,5 @@
-# Seely---bot-discord
-bot discord
+# Seely_bot-discord
+bot discord en js
+
+## Fonctionnalités
+- lister les modérateurs
